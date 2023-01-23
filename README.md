@@ -6,3 +6,12 @@ These shortcuts are built for the v1 and v2 versions of AHK, a program that runs
 Download AHK here: https://www.autohotkey.com/
 
 Also included are shortcuts for typing the date and time with the following formats -> DD/MM/YYYY and HH:MM:SS, mapped similarly to how they are achieved in MS Excel.
+
+
+# Usage
+
+YYYYMMDDTHHMMSS Format -> Ctrl + Shift + D
+
+DD/MM/YYYY Format -> Ctrl + Shift + @
+
+HH:MM:SS Format -> Ctrl + Shift + ~
