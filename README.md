@@ -1,7 +1,7 @@
 # ISO8601
 Repository dedicated to the international standard YYYY-MM-DD date format.
 
-These shortcuts are built for the v1 and v2 versions of AHK, a program that runs on Windows.
+These files are designed to work with AHK, a Windows program that allows you to set up custom shortcuts. Shortcuts are built for the v1 and v2 versions of AHK.
 
 Download AHK here: https://www.autohotkey.com/
 
