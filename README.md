@@ -5,7 +5,7 @@ These files are designed to work with AHK, a Windows program that allows you to 
 
 Download AHK here: https://www.autohotkey.com/
 
-Also included are shortcuts for typing the date and time with the following formats -> DD/MM/YYYY and HH:MM:SS, mapped similarly to how they are achieved in MS Excel.
+Also included are shortcuts for typing the date and time with the following formats -> DD/MM/YYYY and HH:MM:SS, mapped similarly to how they are achieved in MS Excel. You may want to edit these shortcuts depending on how your keyboard is laid out.
 
 
 # Usage
