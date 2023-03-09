@@ -12,6 +12,6 @@
 
 ^+~::
 {
-    TimeString := FormatTime(, "hh':'mm':'ss")
+    TimeString := FormatTime(, "HH':'mm':'ss")
     Send TimeString
 }
